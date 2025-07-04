@@ -1,9 +1,6 @@
 <!-- Yaway Technologies Profile README -->
 
 <h1 align="center">👋 Welcome to Yaway Technologies!</h1>
-<p align="center">
-  <img src="https://yawaytech.com/logo.png" alt="Yaway Logo" width="120"/>
-</p>
 
 <p align="center">
   <b>We build scalable digital solutions for startups & enterprises.</b>
